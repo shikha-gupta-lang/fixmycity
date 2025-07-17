@@ -2,6 +2,8 @@ fixmycity 🌆 FlixMyCity - Civic Issue Reporting Platform
 
 FlixMyCity is a full-stack web platform built for the Samadhan Hackathon to help citizens report and track civic issues such as potholes, garbage accumulation, and broken infrastructure. The system connects users with authorities and allows faster resolution using real-time tracking and AI support.
 
+Live demo: https://fix-my-city-ashy.vercel.app/
+
 🚀 Key Features
 📌 Easy issue reporting with descriptions and photos
 🌍 Auto-location tagging via browser
